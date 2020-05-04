@@ -8,7 +8,12 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Contents
 
+### Enough to be dangerous
+
 * [Technical Blogging](https://technicalblogging.com/)
+
+### To master, continue with
+
 * [You Need a Blog](https://www.donnfelker.com/you-need-a-blog/)
 * [Why You Should Start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/)
 * [Tips for Technical Writing](https://8thlight.com/blog/martin-gaston/2019/10/22/tips-for-technical-writing.html)
