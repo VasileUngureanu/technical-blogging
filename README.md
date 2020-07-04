@@ -25,6 +25,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Выйти из read only](https://medium.com/@MortyMerr/%D0%B2%D1%8B%D0%B9%D1%82%D0%B8-%D0%B8%D0%B7-read-only-86de32fefd38)
 * [How to write a great Technical Blog Post](https://x-team.com/blog/write-a-technical-blog-post/?utm_source=twitter&utm_medium=social&utm_campaign=social-post)
 * [Technical Writing](https://developers.google.com/tech-writing)
+* [Как вести технический блог?](https://habr.com/ru/company/cardsmobile/blog/509388/)
 
 ## Usage
 
